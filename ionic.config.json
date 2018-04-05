@@ -1,0 +1,8 @@
+{
+  "name": "lab-retriever",
+  "app_id": "d0c42323",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
